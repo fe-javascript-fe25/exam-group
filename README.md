@@ -17,7 +17,7 @@ Men var försiktig… 😨 Om du av misstag nuddar en Pokémon du redan har fån
   - Tränaren måste vara mellan 10 och 15 år gammal
   - Tränaren måste ha bockat i om hen är en pojke eller en flicka
 * Vid lyckad validering skall spelet starta, vid misslyckad validering meddelas användaren om exakt vad som gick snett
-* Under tiden spelet pågår skall spelmusik spelas
+* Under tiden spelet pågår skall spelmusik spelas, spelmusiken kan stängas av
 * 10 slumpmässigt utvalda pokemons (av 151 stycken) skall slumpas ut på skärmen
 * Bilderna skall ha en bredd och höjd på 300px.
 * Var 3e sekund får varje pokemon en ny position
@@ -65,7 +65,7 @@ För att nå godkänt betyg:
 * main får endast innehålla en färdig version av spelet, merga därför inte till main förens spelet är helt färdigt
 * Måste var och en i gruppen ha skapat brancher, pushat kod, och gjort pull requests
 
-Tips! Även om arbetssättet är lämpat för att man skall kunna sitta och jobba parallellt med kod så tycker jag att ni bör sitta tillsammans, dela skärm, prata, diskutera, och turas om med vem som kodar just nu. Vi är inte riktigt där ännu att vi kan släppa lös alla på egen hand.
+Även om arbetssättet är lämpat för att man skall kunna sitta och jobba parallellt med kod så vill jag att ni sittaer tillsammans och kodar, delar skärm, pratar, och turas om med vem som köttar kod just nu. Vi är inte riktigt där ännu att vi kan släppa lös alla på egen hand.
 
 ## Handledning
 
@@ -73,4 +73,4 @@ Sköter vi på Discord. Tagga mig i handledningskanalen under de timmar som ni n
 
 ## Inlämning
 
-Lämna in länken till ert grupprepo på Azomo senast kl 23:59, torsdagen den 6 februari. Glöm inte att ALLA i gruppen måste lämna in länken. Sen inlämning resulterar i att man hamnar i komplettering, och kompletteringsperioden pågår i 2 veckor från det att rättningarna publicerats.
+Lämna in länken till ert grupprepo på Azomo senast kl 23:59, fredagen den 6 februari. Glöm inte att ALLA i gruppen måste lämna in länken. Sen inlämning resulterar i att man hamnar i komplettering, och kompletteringsperioden pågår i 2 veckor från det att rättningarna publicerats.
