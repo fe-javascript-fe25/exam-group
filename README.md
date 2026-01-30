@@ -24,7 +24,8 @@ Men var försiktig… 😨 Om du av misstag nuddar en Pokémon du redan har fån
 * När man hovrar över en pokemon så fångas den i en pokeboll
 * När man hovrar över en pokeboll smiter pokemonen (måste vara samma pokemon som fångades)
 * När alla pokemon fångats avslutas spelet
-* Skapa en HighScore-vy som poppar upp omedelbart efter avslutat spel, i listan visas spelarna enligt följande format: ```3. Jesper, 15 år, boy, 4590 ms```
+* Skapa en HighScore-vy som poppar upp omedelbart efter avslutat spel, i listan visas spelarna enligt följande format: 
+```3. Jesper, 15 år, boy, 4590 ms```
 * Om användarens tid tar sig in på topp 10 snabbaste tider sparas hen ner i HighScore-listan i localStorage
 * När HighScore-vyn dyker upp skall användaren kunna starta om spelet genom att återgå till startformuläret
 
