@@ -30,7 +30,7 @@ Men var försiktig… 😨 Om du av misstag nuddar en Pokémon du redan har fån
 * Om användarens tid tar sig in på topp 10 snabbaste tider sparas hen ner i HighScore-listan i localStorage
 * När HighScore-vyn dyker upp skall användaren kunna starta om spelet genom att återgå till startformuläret
 
-Här hittar ni en [demonstration av spelet](https://drive.google.com/file/d/1XqZY1tBt95HNET9k9-ZnyZomu4RcXfEs/view?usp=sharing)
+Här hittar ni en [demonstration av spelet](https://drive.google.com/file/d/1ADN4aHOOnrNwUt7A1E5eo-Og0-rGw4LL/view?usp=sharing)
 
 ## Ni har till ert förfogande
 
